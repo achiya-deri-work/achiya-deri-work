@@ -15,5 +15,3 @@ In Python i know some ML-AI-algorithmics stuff which i learn mostly for the fun 
 In C i didn't really dived in to deep i only know the basics and i built a pacman 2D game.
 
 Feel free to contact me 👋. 
-
-email: just.achiya@gmail.com (for mostly spam sorry).
