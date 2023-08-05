@@ -1,14 +1,10 @@
-Hello 👋 i'm achiya deri.
-Im 16 years old right now and living 🏠 in isreal.
-The thing i most consider myself knowing is philosophy.
-I also like weightlifting 🏋️‍♀️ even though i suck at it. 
-My music is definitely rock 🎸, especially 90's rock, and even more 90's grunge (Imagine it's nirvana's logo).
 
-Even though i would like to think i'm pretty decent with that.
-My pride is Python after that i know some basic C.
+Greetings! 👋 I'm Achiya Deri, a 19-year-old currently residing in Israel 🏠. I have a strong affinity for philosophy and a passion for weightlifting 🏋️‍♀️, even though I'm still working on mastering the art.
 
-In Python i know some ML-AI-algorithmics stuff which i learn mostly for the fun and math.
+When it comes to music, you'll find me jamming out to rock 🎸, with a special place in my heart for 90's rock and the iconic grunge scene (envision Nirvana's logo).
 
-In C i didn't really dived in to deep i only know the basics and i built a pacman 2D game.
+My programming pride lies in Python, and I've also dipped my toes into the realm of basic C programming.
 
-Feel free to contact me 👋. 
+In the Python realm, I've delved into ML, AI, and algorithmic concepts, driven mainly by my enthusiasm for their mathematical underpinnings.
+
+Feel free to reach out and connect 👋.
