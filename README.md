@@ -1,1 +1,1 @@
-Trying to understand via machines
+Trying to understand via machines.
